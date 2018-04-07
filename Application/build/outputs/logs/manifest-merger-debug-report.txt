@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml:18:1-37:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Chakrit  Rakhuang\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\6afb01cb23707bc70a0b571f04258596\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Chakrit  Rakhuang\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\215c900d7fd7125ae056bffe6655483e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Chakrit  Rakhuang\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\b377cec349e56a8fe55464bffb1de474\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Chakrit  Rakhuang\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\25f04e4f5b2b3eca37c62bb4ed71673d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Chakrit  Rakhuang\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\0be5a62d886072ec6b9cc2242ec1775e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Chakrit  Rakhuang\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\30285188661e3df49ba248368ab27b97\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Chakrit  Rakhuang\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\61fdc3be2e0329857b82a369625c4b53\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Chakrit  Rakhuang\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\104beb6ca82072e88433b31e0ce222d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Chakrit  Rakhuang\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\796484b11d11ec382d8eadaa8eadd4f6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Chakrit  Rakhuang\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\fab53ad35a5d1d115c16433531d85a6d\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml:18:1-37:12
+	package
+		ADDED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml:20:5-51
+		INJECTED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml
+		ADDED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml:18:1-37:12
+		INJECTED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml:19:5-51
+	android:versionCode
+		INJECTED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml
+		ADDED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml:18:1-37:12
+		INJECTED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml:18:11-69
+application
+ADDED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml:22:5-35:19
+	android:label
+		ADDED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml:23:9-41
+	tools:ignore
+		ADDED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml:26:9-48
+	android:icon
+		ADDED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml:24:9-43
+	android:allowBackup
+		ADDED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml:22:18-45
+	android:theme
+		ADDED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml:25:9-54
+activity#com.example.android.pdfrendererbasic.MainActivity
+ADDED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml:28:9-34:20
+	android:label
+		ADDED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml:29:19-51
+	android:name
+		ADDED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml:28:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml
+INJECTED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Chakrit  Rakhuang\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\6afb01cb23707bc70a0b571f04258596\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Chakrit  Rakhuang\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\6afb01cb23707bc70a0b571f04258596\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Chakrit  Rakhuang\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\215c900d7fd7125ae056bffe6655483e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Chakrit  Rakhuang\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\215c900d7fd7125ae056bffe6655483e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Chakrit  Rakhuang\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\b377cec349e56a8fe55464bffb1de474\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Chakrit  Rakhuang\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\b377cec349e56a8fe55464bffb1de474\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Chakrit  Rakhuang\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\25f04e4f5b2b3eca37c62bb4ed71673d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Chakrit  Rakhuang\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\25f04e4f5b2b3eca37c62bb4ed71673d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Chakrit  Rakhuang\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\0be5a62d886072ec6b9cc2242ec1775e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Chakrit  Rakhuang\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\0be5a62d886072ec6b9cc2242ec1775e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Chakrit  Rakhuang\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\30285188661e3df49ba248368ab27b97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Chakrit  Rakhuang\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\30285188661e3df49ba248368ab27b97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Chakrit  Rakhuang\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\61fdc3be2e0329857b82a369625c4b53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Chakrit  Rakhuang\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\61fdc3be2e0329857b82a369625c4b53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Chakrit  Rakhuang\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\104beb6ca82072e88433b31e0ce222d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Chakrit  Rakhuang\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\104beb6ca82072e88433b31e0ce222d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Chakrit  Rakhuang\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\796484b11d11ec382d8eadaa8eadd4f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Chakrit  Rakhuang\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\796484b11d11ec382d8eadaa8eadd4f6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Chakrit  Rakhuang\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\fab53ad35a5d1d115c16433531d85a6d\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Chakrit  Rakhuang\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\fab53ad35a5d1d115c16433531d85a6d\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml
+INJECTED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml
+		ADDED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml
+		ADDED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\androidstudioproject\workbombstudio\PdfRendererBasicKotlin\Application\src\main\AndroidManifest.xml
